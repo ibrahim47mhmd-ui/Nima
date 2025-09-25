@@ -1,4 +1,4 @@
-[Ni'ma.pdf](https://github.com/user-attachments/files/22546254/Ni.ma.pdf)# نعمة
+# نعمة
 The amount of food we throw away every day could feed thousands of people who can’t afford a meal...
 And our project is here to change that.
 
