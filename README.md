@@ -12,7 +12,7 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 --------
 
-# Team participants
+# Team Members 
 
 ### 1- Mahmoud Morsy 2- Ibrahim Mohamed 3 - Fares Hosny
 
@@ -25,4 +25,30 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 7. Post-Launch and Analysis (Ibrahim & Mahmoud)
 
 [Ni'ma.pdf](https://github.com/user-attachments/files/22546243/Ni.ma.pdf)
+
+----------
+
+# Work Plan
+
+
+--------
+
+# Roles & Responsibilities
+
+------
+
+# Instructor
+
+-------
+
+
+
+# Project Files
+
+-------
+
+
+
+
+
 
