@@ -12,13 +12,13 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 # Team participants
 
-1- Mahmoud Morsy 2- Ibrahim Mohamed 3 - Fares Hosny 4-Ziad Yasser
+## 1- Mahmoud Morsy 2- Ibrahim Mohamed 3 - Fares Hosny
 
 1. Discovery and Research (Mahmoud - Ibrahim)
-2. Information Architecture and Wireframing (Fares - Ziad)
+2. Information Architecture and Wireframing (Fares - Mahmoude)
 3. User Flow & UX Design (Fares & Ibrahim)
-4. Usability test & UI design (Mahmoud & ziad)
-5. Testing and Iteration (Ibrahim & Ziad)
+4. Usability test & UI design (Mahmoud & Ibrahim)
+5. Testing and Iteration (Ibrahim & Fares)
 6. Implementation and Handoff (Mahmoud & Fares)
 7. Post-Launch and Analysis (Ibrahim & Mahmoud)
 
