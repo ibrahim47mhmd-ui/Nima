@@ -9,6 +9,7 @@ Instead of letting food go to waste, we offer it at significant discounts — an
 
 "Ni‘ma" isn’t just a project; it’s a conscious movement that honors the blessings we have.
 Every meal we save is a step toward a smarter, kinder, and more compassionate society.
+
 --------
 
 # Team participants
