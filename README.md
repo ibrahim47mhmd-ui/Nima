@@ -67,6 +67,11 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 # Roles & Responsibilities
 
+- **Ibrahim Mohamed Ibrahim (Team Leader)**
+- c
+- **Mahmoud Morsy**
+- **Fares Hosny**
+
 ------
 
 # Instructor
