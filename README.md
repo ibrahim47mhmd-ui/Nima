@@ -29,39 +29,39 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Study of food waste statistics (local and global context).
 
-&nbsp; &nbsp; &nbsp; &nbsp; ◦ Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;  Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
 
-&nbsp; &nbsp; &nbsp; &nbsp; ◦ Comprehensive Competitor and Market Analysis.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;  Comprehensive Competitor and Market Analysis.
 
-&nbsp; &nbsp; &nbsp; &nbsp; ◦ Creation of a Moodboard and definition of the overall concept direction.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;  Creation of a Moodboard and definition of the overall concept direction.
 
 ### Phase 2: Brand Identity
 
-_ Finalization of the Logo Design.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;  Finalization of the Logo Design.
 
-Definition of the official Color Palette & Typography standards.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Definition of the official Color Palette & Typography standards.
 
-Creation of a clear Visual Style Guide documenting all brand elements.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Creation of a clear Visual Style Guide documenting all brand elements.
 
-### Phase 4: Digital & UX Components
+### Phase 3: Digital & UX Components
 
-Creation of App Interface Mockups (key screens like home, donation posting, and order/collection).
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Creation of App Interface Mockups (key screens like home, donation posting, and order/collection).
 
-Design and preview of a QR-based Food Collection System for efficient handovers.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Design and preview of a QR-based Food Collection System for efficient handovers.
 
-Mapping out the User Flow Diagram (donor → receiver → confirmation).
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Mapping out the User Flow Diagram (donor → receiver → confirmation).
 
-### Phase 5: Review & Finalization
+### Phase 4: Review & Finalization
 
-Internal team review and feedback sessions.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Internal team review and feedback sessions.
 
-Refinement of all visuals and copy.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Refinement of all visuals and copy.
 
-Exporting all design assets (print-ready and digital formats).
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Exporting all design assets (print-ready and digital formats).
 
-Final Presentation: Development of a Behance-style visual portfolio and a Presentation PDF.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Final Presentation: Development of a Behance-style visual portfolio and a Presentation PDF.
 
-Upload of all digital files and assets to GitHub.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Upload of all digital files and assets to GitHub.
 
 --------
 
