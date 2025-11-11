@@ -14,9 +14,8 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 # Team Members (Ni‘ma)
 - **Ibrahim Mohamed Ibrahim (Team Leader)**
-**. Mahmoud Morsy**
-**. Fares Hosny**
-
+- **Mahmoud Morsy**
+- **Fares Hosny**
 
 
 [Ni'ma.pdf](https://github.com/user-attachments/files/22546243/Ni.ma.pdf)
