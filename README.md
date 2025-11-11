@@ -33,11 +33,11 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 - Comprehensive Competitor and Market Analysis.
 
-Creation of a Moodboard and definition of the overall concept direction.
+* Creation of a Moodboard and definition of the overall concept direction.
 
 ### Phase 2: Brand Identity
 
-Finalization of the Logo Design.
+_ Finalization of the Logo Design.
 
 Definition of the official Color Palette & Typography standards.
 
