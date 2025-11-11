@@ -23,9 +23,9 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 # Work Plan
 
-##The project development is divided into five key phases:
+## The project development is divided into five key phases:
 
-###Phase 1: Research & Analysis
+### Phase 1: Research & Analysis
 
 Study of food waste statistics (local and global context).
 
