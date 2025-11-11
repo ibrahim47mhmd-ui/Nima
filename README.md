@@ -29,7 +29,7 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 ○ Study of food waste statistics (local and global context).
 
-◦ Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
+**◦** Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
 
 _ - Comprehensive Competitor and Market Analysis.
 
