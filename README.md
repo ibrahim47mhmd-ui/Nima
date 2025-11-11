@@ -13,17 +13,11 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 --------
 
 # Team Members (Ni‘ma)
-1- Ibrahim Mohamed Ibrahim (Team Leader) 
-2- Mahmoud Morsy 
-3 - Fares Hosny
+** 1- Ibrahim Mohamed Ibrahim (Team Leader) **
+** 2- Mahmoud Morsy **
+** 3- Fares Hosny **
 
-1. Discovery and Research (Mahmoud - Ibrahim)
-2. Information Architecture and Wireframing (Fares - Mahmoude)
-3. User Flow & UX Design (Fares & Ibrahim)
-4. Usability test & UI design (Mahmoud & Ibrahim)
-5. Testing and Iteration (Ibrahim & Fares)
-6. Implementation and Handoff (Mahmoud & Fares)
-7. Post-Launch and Analysis (Ibrahim & Mahmoud)
+
 
 [Ni'ma.pdf](https://github.com/user-attachments/files/22546243/Ni.ma.pdf)
 
