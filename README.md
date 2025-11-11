@@ -35,7 +35,7 @@ Comprehensive Competitor and Market Analysis.
 
 Creation of a Moodboard and definition of the overall concept direction.
 
-Phase 2: Brand Identity
+### Phase 2: Brand Identity
 
 Finalization of the Logo Design.
 
@@ -43,17 +43,7 @@ Definition of the official Color Palette & Typography standards.
 
 Creation of a clear Visual Style Guide documenting all brand elements.
 
-Phase 3: Main Communication Designs
-
-Development of a Poster Campaign promoting food-saving awareness.
-
-Design of a Tri-fold Brochure explaining how the platform works for different users.
-
-Creation of Social Media Carousels for awareness and app promotion.
-
-Design and mockup of Merchandising Items (t-shirt, tote bag, mug) to support the brand identity.
-
-Phase 4: Digital & UX Components
+### Phase 4: Digital & UX Components
 
 Creation of App Interface Mockups (key screens like home, donation posting, and order/collection).
 
@@ -61,7 +51,7 @@ Design and preview of a QR-based Food Collection System for efficient handovers.
 
 Mapping out the User Flow Diagram (donor → receiver → confirmation).
 
-Phase 5: Review & Finalization
+### Phase 5: Review & Finalization
 
 Internal team review and feedback sessions.
 
