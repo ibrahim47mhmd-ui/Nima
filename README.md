@@ -1,4 +1,4 @@
-# نعمة
+# نعمة -Ni‘ma 
 The amount of food we throw away every day could feed thousands of people who can’t afford a meal...
 And our project is here to change that.
 
@@ -12,9 +12,10 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 --------
 
-# Team Members 
-
-### 1- Mahmoud Morsy 2- Ibrahim Mohamed 3 - Fares Hosny
+# Team Members (Ni‘ma)
+1- Ibrahim Mohamed Ibrahim (Team Leader) 
+2- Mahmoud Morsy 
+3 - Fares Hosny
 
 1. Discovery and Research (Mahmoud - Ibrahim)
 2. Information Architecture and Wireframing (Fares - Mahmoude)
