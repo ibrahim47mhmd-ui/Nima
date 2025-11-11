@@ -18,12 +18,60 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 - **Fares Hosny**
 
 
-[Ni'ma.pdf](https://github.com/user-attachments/files/22546243/Ni.ma.pdf)
 
 ----------
 
 # Work Plan
 
+##The project development is divided into five key phases:
+
+###Phase 1: Research & Analysis
+
+Study of food waste statistics (local and global context).
+
+Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
+
+Comprehensive Competitor and Market Analysis.
+
+Creation of a Moodboard and definition of the overall concept direction.
+
+Phase 2: Brand Identity
+
+Finalization of the Logo Design.
+
+Definition of the official Color Palette & Typography standards.
+
+Creation of a clear Visual Style Guide documenting all brand elements.
+
+Phase 3: Main Communication Designs
+
+Development of a Poster Campaign promoting food-saving awareness.
+
+Design of a Tri-fold Brochure explaining how the platform works for different users.
+
+Creation of Social Media Carousels for awareness and app promotion.
+
+Design and mockup of Merchandising Items (t-shirt, tote bag, mug) to support the brand identity.
+
+Phase 4: Digital & UX Components
+
+Creation of App Interface Mockups (key screens like home, donation posting, and order/collection).
+
+Design and preview of a QR-based Food Collection System for efficient handovers.
+
+Mapping out the User Flow Diagram (donor → receiver → confirmation).
+
+Phase 5: Review & Finalization
+
+Internal team review and feedback sessions.
+
+Refinement of all visuals and copy.
+
+Exporting all design assets (print-ready and digital formats).
+
+Final Presentation: Development of a Behance-style visual portfolio and a Presentation PDF.
+
+Upload of all digital files and assets to GitHub.
 
 --------
 
