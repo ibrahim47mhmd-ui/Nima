@@ -27,13 +27,13 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 ### Phase 1: Research & Analysis
 
-   ◦Study of food waste statistics (local and global context).
+&nbsp; &nbsp; &nbsp; &nbsp; ◦ Study of food waste statistics (local and global context).
 
-&nbsp; &nbsp; &nbsp; ◦ Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
+&nbsp; &nbsp; &nbsp; &nbsp; ◦ Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
 
-- Comprehensive Competitor and Market Analysis.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦ Comprehensive Competitor and Market Analysis.
 
-* Creation of a Moodboard and definition of the overall concept direction.
+&nbsp; &nbsp; &nbsp; &nbsp; ◦ Creation of a Moodboard and definition of the overall concept direction.
 
 ### Phase 2: Brand Identity
 
