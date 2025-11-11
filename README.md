@@ -31,7 +31,7 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 ◦ Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
 
-Comprehensive Competitor and Market Analysis.
+_ - Comprehensive Competitor and Market Analysis.
 
 Creation of a Moodboard and definition of the overall concept direction.
 
