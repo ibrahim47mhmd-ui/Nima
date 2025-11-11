@@ -13,9 +13,9 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 --------
 
 # Team Members (Ni‘ma)
-- **Ibrahim Mohamed Ibrahim (Team Leader)**
-- **Mahmoud Morsy**
-- **Fares Hosny**
+- **Ibrahim Mohamed Ibrahim Elsayed (Team Leader)**
+- **Mahmoud Mohamed Mohamed Morsy**
+- **Fares Hosny Massoud Elbohy**
 
 ----------
 
@@ -65,17 +65,17 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 # Roles & Responsibilities
 
-- **Ibrahim Mohamed Ibrahim (Team Leader)**
+- **Ibrahim Mohamed Ibrahim Elsayed (Team Leader)**
    
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Research, Personas, Logo, and UX Mockups.  
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp; Poster Design, Final Presentation, GitHub Upload.  
     
-- **Mahmoud Morsy**
+- **Mahmoud Mohamed Mohamed Morsy**
    
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;Competitor Analysis, Color Palette & Typography, and Brochure design.  
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;Moodboard, Style Guide, Digital Export.  
     
-- **Fares Hosny**
+- **Fares Hosny Massoud Elbohy**
    
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;Social Media Carousel, Merch Design, and App Interface Screens.  
 &nbsp; &nbsp; &nbsp; &nbsp; ◦&nbsp;Poster Support, Presentation Layout, Review Process.  
