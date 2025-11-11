@@ -27,7 +27,7 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 
 ### Phase 1: Research & Analysis
 
-○ Study of food waste statistics (local and global context).
+◦   Study of food waste statistics (local and global context).
 
 **◦** Development of Target Audience Personas (restaurants/donors, individual consumers, and NGOs/charities).
 
