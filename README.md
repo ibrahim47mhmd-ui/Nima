@@ -87,7 +87,9 @@ Every meal we save is a step toward a smarter, kinder, and more compassionate s
 - **Yasmeen Ali**
 -------
 
-
+# Figma Link
+https://www.figma.com/design/okviwPiWn4roRtYRElBMeh/Ni-ma?node-id=0-1&t=Pj4hATDyiI8KU6Wr-1
+-------
 
 # Project Files
 We will finish it and upload it
