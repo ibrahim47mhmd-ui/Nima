@@ -92,6 +92,8 @@ https://www.figma.com/design/okviwPiWn4roRtYRElBMeh/Ni-ma?node-id=0-1&t=Pj4hATDy
 -------
 
 # Project Files
+Case Study 
+https://drive.google.com/file/d/1dhuHu-GZMiZaLsfWjKlaGGujo4YTcJcX/view?usp=drive_link
 [presentation file]
 (https://drive.google.com/file/d/18eWYjrhdPbEMwd4sQgN5ZiFHP2jaf2Ci/view?usp=drive_link)
 -------
